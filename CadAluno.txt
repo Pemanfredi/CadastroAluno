@@ -1,3 +1,2 @@
-Cadastro de aluno
-RA:314111024
-Nome:Peter Manfredi
+Telefone:
+e-mail: 
