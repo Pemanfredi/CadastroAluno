@@ -2,5 +2,3 @@ Cadastro de professor
 Matrícula:
 Nome:
 e-mail:
-Telefone:
-Disciplinas que leciona:
