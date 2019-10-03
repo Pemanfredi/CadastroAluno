@@ -1,5 +1,2 @@
-Cadastro de aluno
-RA:
-Nome:
 Telefone:
 e-mail: 
